@@ -19,24 +19,6 @@ This repository contains a project developed for the "Predictive Models" course,
 -   🧠 **Predictive Modeling:** Implements machine learning models (details within `script_lisbon_final.R` and `report.pdf`) to forecast or classify aspects of Airbnb listings.
 -   📄 **Comprehensive Report:** A detailed PDF document (`report.pdf`) outlining the project's methodology, analysis findings, model evaluation, and conclusions.
 
-## 🛠️ Technology Stack
-
-**Languages & Environment:**
-
-| Technology | Badge                                                                                                     |
-| :--------- | :-------------------------------------------------------------------------------------------------------- |
-| R          | ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)                     |
-| RStudio    | ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) |
-
-**Key R Libraries (Inferred - Check `script_lisbon_final.R` for exact list):**
-
-This project likely utilizes standard R packages for data manipulation, visualization, and predictive modeling. Common examples include:
-
--   `dplyr` and `tidyr` for data wrangling
--   `ggplot2` for data visualization
--   `caret` or `tidymodels` for machine learning workflows
--   `readr` for efficient data loading
-
 ## 🚀 Getting Started
 
 To reproduce the analysis or explore the project, you'll need R and preferably RStudio.
