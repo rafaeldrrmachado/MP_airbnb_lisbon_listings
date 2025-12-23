@@ -87,6 +87,6 @@ This project was created as a submission for a university course. While direct c
 
 **⭐ Star this repo if you find this analysis helpful or insightful!**
 
-Made with ❤️ by [Rafael Machado](https://github.com/rafaeldrrmachado)
+Made by [Rafael Machado](https://github.com/rafaeldrrmachado)
 
 </div>
